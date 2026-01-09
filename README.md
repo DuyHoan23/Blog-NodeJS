@@ -72,3 +72,7 @@ Hoan Duy | Information technology engineer
 GitHub: https://github.com/DuyHoan23
 
 Email: hoan3798@gmail.com
+
+## License
+
+MIT License
