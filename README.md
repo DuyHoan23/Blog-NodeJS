@@ -34,8 +34,8 @@ The project is intentionally kept simple to help developers become familiar with
 
 - Node.js
 - Express.js
-- EJS / Pug / Handlebars (depending on your setup)
-- MongoDB / JSON / In-memory data (depending on your setup)
+- EJS / Pug / Handlebars
+- MongoDB / JSON / In-memory data 
 - HTML, CSS
 
 ---
@@ -44,7 +44,7 @@ The project is intentionally kept simple to help developers become familiar with
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/nodejs-blog-app.git
+git clone https://github.com/DuyHoan23/Blog-NodeJS.git
 2. Install dependencies:
 npm install
 3. Run the application
